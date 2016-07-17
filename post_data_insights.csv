@@ -1,0 +1,167 @@
+"0_created_time","0_id","0_insight_insight_data_author_id","0_insight_insight_data_author_title","0_insight_insight_data_author_type","0_insight_insight_data_author_url","0_insight_insight_data_category","0_insight_insight_data_comment_count","0_insight_insight_data_created_at","0_insight_insight_data_download_count","0_insight_insight_data_embed_count","0_insight_insight_data_favorites_count","0_insight_insight_data_featured_on","0_insight_insight_data_published","0_insight_insight_data_updated_at","0_insight_insight_data_view_count","0_insight_share_comment_count","0_insight_share_share_count","0_likes_summary_can_like","0_likes_summary_has_liked","0_likes_summary_total_count","0_link","0_message","0_name","0_shares_count"
+"2016-07-17T03:43:00+0000","1502894619932654_1812455042309942","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-17 00:24:19 UTC","50","1","5","","2016-07-17T00:24:19+0000","2016-07-17 00:24:52 UTC","510","0","87","False","False","8","http://www.slideshare.net/tw_dsconf/ss-64091204","http://www.slideshare.net/tw_dsconf/ss-64091204 
+
+專題演講/李宏毅/當語音處理遇上深度學習
+
+李宏毅，現為臺大電機系助理教授，他的研究方向與興趣是以機器學習技術讓機器辨識並理解語音訊號的內容。以深度學習技術為基石，他正致力於語音數位內容搜尋、語音數位內容之自動化組織以及從語音數位內容擷取關鍵資訊等前瞻性研究，這些技術有很多的應用，例如：人機互動、問答系統、智慧型線上教學平台等等。他曾在臺大開設和深度學習相關的課程「機器學習及其深層與結構化」。","李宏毅/當語音處理遇上深度學習","3"
+"2016-07-17T03:01:00+0000","1502894619932654_1812453678976745","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-17 00:18:19 UTC","34","1","3","","2016-07-17T00:18:19+0000","2016-07-17 00:18:35 UTC","369","0","50","False","False","29","http://www.slideshare.net/tw_dsconf/ss-64091174","http://www.slideshare.net/tw_dsconf/ss-64091174  
+
+專題演講/楊奕軒/音樂資料檢索
+
+Yi-Hsuan Yang is an Associate Research Fellow with Academia Sinica. He received his Ph.D. degree in Communication Engineering from National Taiwan University in 2010, and became an Assistant Research Fellow in Academia Sinica in 2011. He is also an Adjunct Associate Professor with the National Tsing Hua University, Taiwan. His research interests include music information retrieval, machine learning and affective computing. Dr. Yang was a recipient of the 2011 IEEE Signal Processing Society (SPS) Young Author Best Paper Award, the 2012 ACM Multimedia Grand Challenge First Prize, and the 2014 Ta-You Wu Memorial Research Award of the Ministry of Science and Technology, Taiwan. He is an author of the book Music Emotion Recognition (CRC Press 2011) and a tutorial speaker on music affect recognition in the International Society for Music Information Retrieval Conference (ISMIR 2012). In 2014, he served as a Technical Program Co-chair of ISMIR, and a Guest Editor of the IEEE Transactions on Affective Computing and the ACM Transactions on Intelligent Systems and Technology.","楊奕軒/音樂資料檢索","4"
+"2016-07-17T02:59:00+0000","1502894619932654_1812436038978509","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 23:55:53 UTC","75","1","6","","2016-07-16T23:55:53+0000","2016-07-16 23:56:12 UTC","536","0","79","False","False","41","http://www.slideshare.net/tw_dsconf/crowd-computing-for-big-and-deep-ai","http://www.slideshare.net/tw_dsconf/crowd-computing-for-big-and-deep-ai
+
+專題演講/許永真/Crowd Computing for Big and Deep AI
+
+Jane Hsu is a professor and department chair of Computer Science and Information Engineering at National Taiwan University. Her research interests include multi-agent systems, intelligent data analysis, commonsense knowledge, and context-aware computing. Prof. Hsu is the director of the Intel-NTU Connected Context Computing Center, featuring global research collaboration among NTU, Intel, and the National Science Council of Taiwan. She serves on the editorial board of Journal of Information Science and Engineering (2010-), International Journal of Service Oriented Computing and Applications (Springer, 2007-2009) and Intelligent Data Analysis (Elsevier/IOS Press, 1997-2002). She is actively involved in many key international AI conferences as organizers and members of the program committee. In addition to serving as the President of Taiwanese Association for Artificial Intelligence (2013-2014), Prof. Hsu has been a member of AAAI, IEEE, ACM, Phi Tau Phi, and an executive committee member of the IEEE Technical Committee on E-Commerce (2000) and TAAI (2004-current).","許永真/Crowd Computing for Big and Deep AI","9"
+"2016-07-17T02:58:00+0000","1502894619932654_1812450055643774","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 23:59:46 UTC","28","0","2","","2016-07-16T23:59:46+0000","2016-07-17 00:00:08 UTC","248","0","27","False","False","12","http://www.slideshare.net/tw_dsconf/ss-64091012","http://www.slideshare.net/tw_dsconf/ss-64091012
+
+專題演講/林峰正/智慧型工程管考系統 : 資料分析經驗談
+
+林峰正服務於逢甲大學地理資訊系統研究中心研究副教授，研究主題包含雲端運算、時空資料視覺化分析、商業智慧、排程理論，目前執行科技部、水保局、水利署、國家太空中心雲端相關研發及系統建置計畫，另外，協助翻譯雲端巨量資料分析相關兩本重要書籍，包含 HBase 技術手冊第一版、 Hadoop 技術手冊第四版 (即將出版)。","林峰正/智慧型工程管考系統 : 資料分析經驗談","3"
+"2016-07-17T01:49:00+0000","1502894619932654_1812473972308049","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-17 01:30:17 UTC","35","1","2","","2016-07-17T01:30:17+0000","2016-07-17 01:30:49 UTC","319","0","43","False","False","35","http://www.slideshare.net/tw_dsconf/ss-64091657","http://www.slideshare.net/tw_dsconf/ss-64091657
+
+專題演講/彭盛韶/公私協力的公共服務 - 以資料面詮釋
+
+彭盛韶任職於臺北市政府資訊局，主責智慧城市及開放資料。因本身兼具資訊專業及具有任職於公部門之經驗，專長為跨域協調及整合資源。2016 年資訊局兩項重大計畫「空氣盒子」及「LoRa 物聯網實驗平台」，皆有參與及貢獻。在資料科學領域主要貢獻為整合公部門及私部門，產生出各類應用所需之資料。","彭盛韶/公私協力的公共服務 - 以資料面詮釋","5"
+"2016-07-17T01:44:14+0000","1502894619932654_1812475652307881","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-17 01:42:06 UTC","49","1","11","","2016-07-17T01:42:06+0000","2016-07-17 01:42:26 UTC","903","0","122","False","False","66","http://www.slideshare.net/tw_dsconf/ss-64091725","http://www.slideshare.net/tw_dsconf/ss-64091725
+
+專題演講/孫民/從電腦視覺看人工智慧 : 下一件大事
+
+孫民博士目前任教於國立清華大學電機系，他畢業於國立交通大學電子工程學系後，取得史坦福電機碩士、密西根安雅堡電機系統組博士、以及西雅圖華盛頓大學計算機工程博士後的經歷。他的研究興趣在電腦視覺、機器學習、以及人機互動領域，近年來基於深度學習在電腦視覺的突破，他致力於開發橫跨人工智慧不同子領域的系統，如自動影片文字描述 ( 視覺 x 自然語言 )、以及與人類行為互動的智慧機器 ( 視覺 x 控制 )。
+
+欲瞭解孫博士的研究，請瀏覽他的個人網頁http://aliensunmin.github.io。","孫民/從電腦視覺看人工智慧 : 下一件大事","27"
+"2016-07-17T01:43:00+0000","1502894619932654_1812434495645330","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 23:51:43 UTC","39","2","3","","2016-07-16T23:51:43+0000","2016-07-16 23:52:25 UTC","557","0","94","False","False","54","http://www.slideshare.net/tw_dsconf/ss-64090957","http://www.slideshare.net/tw_dsconf/ss-64090957
+
+專題演講/林煜軒/從手機解讀行為與心理
+
+林煜軒博士為國內少數兼具臨床、企業界資歷之精神科醫師，已發表 28 篇學術論文於國際期刊 (H index=8)，其中值班實習醫師之生理訊號研究成果於最具權威教科書《睡眠醫學原理與實務》網站專題報導；立法院、監察院探討醫師工時之公聽會、座談會均援引林醫師團隊之研究成果。
+
+林醫師曾任職臺大精神部，近年投入網路心理學等多項跨領域研究，致力研發雲端健康服務的手機程式 (App)、編製「智慧型手機成癮量表」，獲得多國學者要求授權翻譯。近期受邀編寫國際知名網路成癮教科書中「智慧型手機成癮」章節。並積極建立產學合作平台，協助政府部門研擬相關政策","林煜軒…œ/從手機解讀行為與心理","20"
+"2016-07-17T01:02:00+0000","1502894619932654_1812432735645506","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 23:42:37 UTC","39","0","3","","2016-07-16T23:42:37+0000","2016-07-16 23:43:09 UTC","450","0","29","False","False","22","http://www.slideshare.net/tw_dsconf/mobility-on-demand-for-future-cities","http://www.slideshare.net/tw_dsconf/mobility-on-demand-for-future-cities
+
+專題演講/鄭世昐/未來城市的任意門 (Mobility on Demand for Future Cities)
+
+Shih-Fen Cheng is Associate Professor of Information Systems and Deputy Director of the Fujitsu-SMU Urban Computing and Engineering Corp Lab at the Singapore Management University. He received his Ph.D. degree in industrial and operations engineering from the University of Michigan, Ann Arbor, and B.S.E. degree in mechanical engineering from the National Taiwan University.
+
+His research focuses on the modeling and optimization of complex systems in engineering and business domains. He is particularly interested in the application areas of transportation, computational markets, and human decision-making. He is a member of INFORMS, AAAI, and IEEE, and serves as Area Editor for Electronic Commerce Research and Applications.","鄭世昐/未來城市的任意門 (Mobility on Demand for Future Cities)","6"
+"2016-07-17T01:01:00+0000","1502894619932654_1812433398978773","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 23:47:20 UTC","44","3","2","","2016-07-16T23:47:20+0000","2016-07-16 23:47:43 UTC","455","0","128","False","False","90","http://www.slideshare.net/tw_dsconf/ss-64090916","http://www.slideshare.net/tw_dsconf/ss-64090916
+
+專題演講/李祈均/人類行為訊號處理 : 跨學科 (醫療、教育、心理) 應用實例分享、心得、展望
+
+李祈均博士目前是國立清華大學電機系的助理教授。他的研究專長在於運用及開發訊號處理及機器學習技術進行跨領域研究，尤其是在對人類行為進行分析、預測、及統計建模。他長期著墨在運用不同種類的資料檔 ( 文字、聲音、影像等等 ) 於醫療、教育、心理領域研發相關演算法。他曾是 ID Analytics 公司旗下的 id:a lab 的資料科學家，透過分析客戶信用申請函資訊進行金融信用產品之研發與開發。目前在清大跟榮總、國家衛生研究院、長庚醫院、臺大醫院、及國家教育研究院等機構合作研究對人類情緒，教育演講，及醫療臨床行為進行量化建模及客觀辨識。","李祈均/人類行為訊號處理 : 跨學科 (醫療、教育、心理) 應用實例分享、心得、展望","19"
+"2016-07-16T08:38:00+0000","1502894619932654_1812132829008830","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 06:41:51 UTC","79","1","4","","2016-07-16T06:41:51+0000","2016-07-16 06:42:21 UTC","524","0","83","False","False","77","http://www.slideshare.net/tw_dsconf/ss-64078404","http://www.slideshare.net/tw_dsconf/ss-64078404
+
+專題演講/莊坤達/資料科學與防疫應用的結合 : 以登革熱防治為例
+
+傳染病的防治是人類社會一直以來的挑戰課題。在台灣，每年幾乎都會面臨腸病毒，登革熱，流感等人群擴散性高的傳染疫病所帶來的社會，經濟上的損失。在本次演講中，我們將討論 2015 年，在台南市面對嚴峻登革熱爆發時，所面臨的醫療問題，政府信任度，及防疫手段上，所遭遇的問題。以及分享在決策層面上，如何透過資料分析的導入，以科學性的探討，協助控制疫情的故事。也將分享並提出資料科學能在防疫問題上的幫忙及未來規劃。","莊坤達/資料科學與防疫應用的結合 : 以登革熱防治為例","15"
+"2016-07-16T08:37:00+0000","1502894619932654_1812133442342102","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 06:55:49 UTC","98","6","14","","2016-07-16T06:55:49+0000","2016-07-16 06:57:05 UTC","1007","0","197","False","False","174","http://www.slideshare.net/tw_dsconf/ss-64078610","http://www.slideshare.net/tw_dsconf/ss-64078610
+
+專題演講/周世恩/資料分析前的奏曲 : 談資料收集的挑戰
+
+2012 年開啟了網頁抓取的生涯，先後在臺大工程科學與海洋工程研究所與趨勢科技磨練。2014 年創立 QSearch，在社群數據抓取過程中打開潘朵拉的盒子，希望把揭開的社群趨勢分享給各個產業。數據分析最重要的資料擷取，這幾年來面對許多挑戰，數量大且變化大，各個產業又有不同的資料表達方式，未來將致力於資料擷取系統開發，讓資料分析者無後顧之憂。","周世恩/資料分析前的奏曲 : 談資料收集的挑戰","36"
+"2016-07-16T08:37:00+0000","1502894619932654_1812131109009002","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 06:37:36 UTC","92","2","7","","2016-07-16T06:37:36+0000","2016-07-16 06:38:00 UTC","719","0","122","False","False","92","http://www.slideshare.net/tw_dsconf/ss-64078333","http://www.slideshare.net/tw_dsconf/ss-64078333
+
+專題演講/黃從仁/心理與行為資料中的因與果
+
+黃從仁畢業於臺灣大學數學系、臺灣大學物理學研究所、波士頓大學認知與神經系統研究所。他的研究專長為應用數理模型與電腦模擬來解釋人類認知行為。目前他的研究團隊致力於使用資訊科技來進行心理學與神經科學的巨量資料研究，在議題上聚焦於社會認知/學習/記憶。研究之外，他曾擔任科羅拉多大學認知科學研究所以及臺灣大學身體心靈文化整合影像研究中心的資訊系統架構師兼管理員。","黃從仁/心理與行為資料中的因與果","17"
+"2016-07-16T07:52:00+0000","1502894619932654_1812099409012172","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 04:38:25 UTC","78","4","2","","2016-07-16T04:38:25+0000","2016-07-16 04:38:39 UTC","548","0","76","False","False","64","http://www.slideshare.net/tw_dsconf/ss-64077120","http://www.slideshare.net/tw_dsconf/ss-64077120
+
+專題演講/陳伶志/自己的空氣品質自己量 : 談參與式環境感測的機會與挑戰
+
+陳伶志，現任中央研究院資訊科學所副研究員。其研究專長為網路感測系統、行動無線網路與社群運算，已發表超過 100 篇的學術論於於國際期刊與研討會。其研究主題多以貼近生活的真實問題為出發點，重要的代表作包含玉山登山追蹤與搜救系統、大臺北公車行車舒適度系統，以及近期的微型空氣品質感測系統，該系統目前已與 LASS 網路社群和臺北市政府合作，在全台各地佈建超過 300 個感測站，並且同時收集包含環保署與其他民間社群的感測資料，是目前全台空氣品質感測資料最大的集散中心。","陳伶志/自己的空氣品質自己量 : 談參與式環境感測的機會與挑戰","26"
+"2016-07-16T07:52:00+0000","1502894619932654_1812136732341773","1117701104958796","muyueh","slideshare:author","http://www.slideshare.net/muyueh","Data & Analytics","0","2016-07-13 07:05:27 UTC","48","4","14","","2016-07-13T07:05:27+0000","2016-07-16 06:05:29 UTC","974","0","454","False","False","283","https://www.slideshare.net/mobile/muyueh/ss-63976164","https://www.slideshare.net/mobile/muyueh/ss-63976164
+
+專題演講/李慕約&王向榮/如何備料：資料的抓取、清理以及串接
+
+-------------------------------------------------------------
+
+李慕約，公司共同創辦人，提供資料分析、視覺化服務。分析就像炒菜。炒菜重要，買了一堆炒鍋。但炒不出菜不是因為沒鍋，因為炒菜真正難在：決定炒什麼菜、如何處理食材、炒菜技術。市場上很多人在賣各式炒鍋（ 資料軟體 / 平台 /機器 ），我們幫客戶炒菜。
+客戶包含：
+- 國內三大電信（ 分析客戶訴訟、3D 建築物以及 4G 基地台 ）
+- 銀行（ 時間序列分析 ）
+- 蔡英文總統（ 視覺化選舉政策 ）
+- 世界衛生組織與中國雙年度合作計畫（ 分析 750 家三甲醫院 ）
+另協助 Google 香港、世界銀行與新加坡政府，進行資料視覺化課程工作坊。
+
+-------------------------------------------------------------
+
+王向榮，交通大學網路策進會會長，曾任痞客邦產品開發副理，現在為李慕約公司共同創辦人。在 g0v 零時政府曾參與及發起台灣公司資料、求職小幫手、新聞小幫手、開放政治獻金等專案，喜歡爬資料收集資料並使用資料放出資料。","如何備料：資料的抓取、清理以及串接","81"
+"2016-07-16T06:37:00+0000","1502894619932654_1812095885679191","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 04:23:26 UTC","69","5","4","","2016-07-16T04:23:26+0000","2016-07-17 02:43:54 UTC","1000","0","172","False","False","152","http://www.slideshare.net/tw_dsconf/ceo-64077007","http://www.slideshare.net/tw_dsconf/ceo-64077007
+
+專題演講/顏汝芳/從薪酬制度讀 CEO 的行為心理學
+
+顏汝芳畢業於臺大數學系、臺大財務金融學系財工組，並於 2013 年於臺大財務金融學系取得博士學位，目前任職於國立臺北大學商學院統計學系助理教授一職。研究方向包含公司理財與銀行放款策略。","顏汝芳/從薪酬制度讀 CEO 的行為心理學","32"
+"2016-07-16T05:55:00+0000","1502894619932654_1812093595679420","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 04:11:24 UTC","56","0","11","","2016-07-16T04:11:24+0000","2016-07-16 08:47:46 UTC","1005","0","344","False","False","254","http://www.slideshare.net/tw_dsconf/ss-64076883","[已修正] 
+http://www.slideshare.net/tw_dsconf/ss-64076883?qid=b1fd975a-f4d7-40b2-8979-488aa2af6f31&v=&b=&from_search=1
+
+專題演講/陳宜欣/大數據下的情緒分析
+
+陳宜欣，美國南加州大學資訊科學博士，目前在清華大學資訊工程系任教，自大學與碩士時期在管理學院的薰陶，始終相信：好的科技技術應該蘊涵著人文關懷。帶領來自世界各地的研究團隊成員，致力運用資料分析技術來找出大數據背後的群眾智慧，最近將焦點放在跨語系情緒與心理分析技術。研究之餘，協助實驗教育的照海華德福建校，並執筆人氣部落格『 教書匠的夢想 』。","陳宜欣/大數據下的情緒分析","47"
+"2016-07-16T05:54:00+0000","1502894619932654_1812095182345928","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 04:18:01 UTC","63","0","13","","2016-07-16T04:18:01+0000","2016-07-16 04:18:49 UTC","1001","0","336","False","False","221","http://www.slideshare.net/tw_dsconf/2-64076950","http://www.slideshare.net/tw_dsconf/2-64076950
+
+專題演講/吳牧恩/一個賭徒的告白 2：交易策略建構與分析，為何你該賭小一點？
+
+吳牧恩教授為數理背景出身、資工博士畢業，其研究領域包括資訊理論與金融資料分析。現為東吳大學數學系助理教授，致力於推廣資金管理的數學與研發金融交易策略，期望破除市場上大眾追求穩賺聖盃的迷思。其亦為知名財金部落格幣圖誌 (Bituzi) 專欄作家 -- 牧清華。","吳牧恩/一個賭徒的告白 2：交易策略建構與分析，為何你該賭小一點？","49"
+"2016-07-16T04:04:26+0000","1502894619932654_1812092002346246","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 04:02:16 UTC","85","0","10","","2016-07-16T04:02:16+0000","2016-07-16 04:03:09 UTC","552","0","137","False","False","118","http://www.slideshare.net/tw_dsconf/ss-64076799","http://www.slideshare.net/tw_dsconf/ss-64076799
+
+專題演講/王晉元/數據分析在運輸管理之應用
+
+王晉元博士，目前任職於國立交通大學運輸與物流管理學系，曾擔任過交通大學運輸研究中心主任與運輸與物流管理學系系主任。王教授的專長在於智慧型運輸系統，尤其專精公共運輸、運輸資訊、與商車營運。近幾年致力於分析透過智慧型運輸分析所收集到的資料，特別是公共運輸車輛與計程車的相關資料。","王晉元…ƒ/數據分析在運輸管理之應用","20"
+"2016-07-16T03:59:30+0000","1502894619932654_1812090559013057","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 03:55:43 UTC","87","0","10","","2016-07-16T03:55:43+0000","2016-07-16 03:56:50 UTC","736","0","198","False","False","149","http://www.slideshare.net/tw_dsconf/ss-64076745","http://www.slideshare.net/tw_dsconf/ss-64076745
+
+專題演講/謝宗震/隨機對照實驗在公共領域的應用
+
+謝宗震，DSP 智庫驅動資料科學家，清華統計博士，對於統計方法與工具的推廣具有極大的熱忱，期望利用統計思維及分析工具幫助各個領域解決問題。輔導超過 300 位政府、企業、非營利組織人士成為資料分析人才。 Data for Social Good (D4SG) 計畫共同發起人，打造一個「資料力，做公益」的交流與媒合平台。","謝宗震/隨機對照實驗在公共領域的應用","35"
+"2016-07-16T03:51:02+0000","1502894619932654_1812087589013354","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 03:47:52 UTC","118","2","13","","2016-07-16T03:47:52+0000","2016-07-16 03:48:54 UTC","813","0","151","False","False","127","http://www.slideshare.net/tw_dsconf/ss-64076685","http://www.slideshare.net/tw_dsconf/ss-64076685
+
+專題演講/余致緯/用數據解決都會城市的停車問題
+
+余致緯 (Ronald) 畢業於臺大電子工程所，目前為停車大聲公創辦人暨執行長。喜歡打球、看球、玩所有的體育活動，看書與打2K是閒暇之餘最愛做的活動。學生時代共同創辦圖像辨識引擎 CliPcik，於 IDEAS SHOW 上獲獎，代表台灣參加BDash及Boston Startup Challenge。 CliPick 專注於圖像辨識，並提供女性網購消費者更快更便捷的方式搜尋想要的服裝款式。之後，Ronald 加入 Gogolook 團隊並擔任事業總監，負責 Whoscall 於香港、印度、東南亞的事業開發與產品推廣。任職期間，成功拓展 Whoscall 於台灣、韓國以外海外用戶，讓 Whoscall 日活躍用戶成長超過 30%。同時，主導 Whoscall 與香港競爭對手小熊來電併購案，協助 Gogolook 團隊拓展香港市場。於2015年，Ronald 再次創業，創辦呼叫阿福 (Alfred) 的即時泊車服務，於2015年轉型專注經營停車大聲公。停車大聲公服務車主找到周遭有空車位的停車場，目前為台灣最大的停車應用程式。","余致緯/用數據解決都會城市的停車問題","32"
+"2016-07-16T03:44:11+0000","1502894619932654_1812086225680157","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-07-16 03:39:50 UTC","82","4","11","","2016-07-16T03:39:50+0000","2016-07-16 03:40:21 UTC","1007","0","353","False","False","213","http://www.slideshare.net/tw_dsconf/riot-games-head-of-data-science","http://www.slideshare.net/tw_dsconf/riot-games-head-of-data-science
+
+專題演講/李仁傑/Data Science at Riot Games
+
+李仁傑，畢業於中國科學技術大學少年班, 美國 University of Rochester 博⼠。現為 Riot Games 數據科學總負責人。致力於通過開發創新的數據產品來提高用戶的體驗，甚至人類的生活。從無到有建立了Riot Games Data Science 部門, 帶領團隊從《英雄聯盟》的海量數據平台中用大數據分析大規模提升商業決策和運營效率, 並用機器學習算法開發了精細化運營, 精準分析預測, 個性化推薦, 自然語⾔處理等各種全球領先的數據產品。","李仁杰/ Riot Games Head of Data Science","50"
+"2016-07-15T01:53:29+0000","1502894619932654_1811656299056483","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","5","2016-05-21 01:40:39 UTC","2526","273","1058","","2016-05-21T01:40:39+0000","2016-07-15 01:53:03 UTC","43379","0","4509","False","False","1034","http://www.slideshare.net/tw_dsconf/ss-62245351","http://www.slideshare.net/tw_dsconf/ss-62245351
+
+感謝台大電機李宏毅教授慷慨分享他今天在 2016 台灣資料科學年會前導課程「一天搞懂深度學習」的近三百頁完整投影片。:)
+
+深度學習 ( Deep Learning ) 是機器學習 ( Machine Learning ) 中近年來備受重視的一支，深度學習根源於類神經網路 ( Artificial Neural Network ) 模型，但今日深度學習的技術和它的前身已截然不同，目前最好的語音辨識和影像辨識系統都是以深度學習技術來完成，你可能在很多不同的場合聽過各種用深度學習做出的驚人應用 ( 例如：最近紅遍大街小巷的 AlphaGo )，聽完以後覺得心癢癢的，想要趕快使用這項強大的技術，卻不知要從何下手學習，那這門課就是你所需要的。
+
+李宏毅博士現為台大電機系助理教授，他的研究方向與興趣是以機器學習技術讓機器辨識並理解語音訊號的內容。以深度學習技術為基石，他正致力於語音數位內容搜尋、語音數位內容之自動化組織以及從語音數位內容擷取關鍵資訊等前瞻性研究，這些技術有很多的應用，例如：人機互動、問答系統、智慧型線上教學平台等等。他曾在台大開設和深度學習相關的課程「機器學習及其深層與結構化」。","一天搞懂深度學習","418"
+"2016-04-23T02:07:18+0000","1502894619932654_1779001712321942","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","1","2016-04-23 01:44:10 UTC","755","479","110","","2016-04-23T01:44:10+0000","2016-04-23 04:34:56 UTC","8626","0","835","False","False","439","http://www.slideshare.net/tw_dsconf/ss-61255961","謝謝 陳維超 博士慷慨分享他今天在「視訊訊號處理與深度學習應用」課程上的完整簡報。
+
+自動車是怎麼樣理解周遭的環境的？谷歌到底是怎麼快速找出我要的照片？波士頓的警方是怎麼找到馬拉松爆炸嫌疑犯的？這些都是由分析大量的照片與影音資料而來的。而這些視訊資料，不但資料量大，由電腦判讀更是不易，因此需要的技術與工具也相當的廣泛，從一開始的資料清理與判讀、抽象化資料萃取，和後端的視訊資料庫索引建立與查找，每一項都是極大的研究課題。深度學習技術之演進，更將其與所需之運算能量推升到空前的境界。
+
+在這一天的課程裡，我們集合了電腦視覺的概念簡介、多媒體資料的分類與檢索方式、深度學習於視訊資料的應用與挑戰、與加速這些技術的 GPU 平行算運算平台等，期由分析單筆視訊資料開始，深入淺出地引領您進入視訊資料的抽象美麗世界。最後的實作課程，並將介紹實際的 IoT 應用例，與實作所需之程式工具等，為理論與實務並重的安排。
+
+完整課程介紹：
+http://datasci.tw/event/vision_and_learning/
+
+完整簡報網址：
+http://www.slideshare.net/tw_dsconf/ss-61255961","視訊訊號處理與深度學習應用","202"
+"2016-03-26T01:54:43+0000","1502894619932654_1766329000255880","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2016-03-26 01:49:44 UTC","958","1515","222","","2016-03-26T01:49:44+0000","2016-03-26 05:27:36 UTC","16061","0","1340","False","False","452","http://www.slideshare.net/tw_dsconf/ss-60041639","http://www.slideshare.net/tw_dsconf/ss-60041639
+
+今天早上的台灣資料科學愛好者年會系列活動「資料視覺化之理論、賞析與實作」由台大土木系教授康仕仲教授主講，約有三百五十位資料科學愛好者們參加。。這場演講的目的在於透過各種視覺化的呈現，能讓大家快速從資料中快速判讀，發現關鍵問題。也幫助跨領域的溝通，以圖像式的方式，說明、探索與分析資料背後的意義，提昇決策的效率與品質。
+
+康教授慷慨地將投影片完整地公開方式分享給所有的資料科學同好們，讓現場聽眾可以一邊聽講一邊閱讀，也讓今天無法來參加的同好們能夠遠端賞析。","資料視覺化之理論、賞析與實作","130"
+"2016-01-23T08:46:09+0000","1502894619932654_1741943819361065","10151012746498860","Sheng-Wei (Kuan-Ta) Chen","slideshare:author","http://www.slideshare.net/swchen11","Data & Analytics","0","2015-09-08 02:05:04 UTC","1072","13968","168","","2015-09-08T02:05:04+0000","2016-04-23 14:17:04 UTC","25780","0","828","False","False","416","http://www.slideshare.net/swchen11/ss-52517363","雖然今天 8 度超低溫，但大家非常熱情，座無虛席，350 位一起到場聽講，與講師陳昇瑋博士、與談人氣象達人彭啟明總經理、威瑞特公司邱銘彰技術長熱烈交流，氣氛溫暖！
+
+謝謝陳博士公開分享 600 頁活動簡報，會後歡迎至台灣資料科學愛好者交流區交流哦。 : )
+
+http://www.slideshare.net/swchen11/ss-52517363","台灣資料科學愛好者年會","72"
+"2016-01-12T02:09:42+0000","1502894619932654_1738333989722048","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Technology","1","2016-01-12 01:45:02 UTC","402","527","79","","2016-01-12T01:45:02+0000","2016-01-12 01:48:40 UTC","7999","0","355","False","False","150","http://www.slideshare.net/tw_dsconf/computer-vision-crash-course-56934508","http://www.slideshare.net/tw_dsconf/computer-vision-crash-course-56934508
+
+今天早上的台灣資料科學愛好者年會系列活動「電腦視覺一二三」由 UIUC 黃嘉斌先生主講，約有三百位資料科學愛好者們參加。。這場演講的目的在於介紹電腦視覺中的基本觀念和核心技術，透過大量實際的範例幫助大家快速了解這些技術如何被應用在日常生活中，以期讓聽眾有效率地了解這個領域，最新的發展以及未來展望。
+
+黃嘉斌先生（預計今年五月拿到 UIUC 博士學位）很慷慨地將投影片完整地以「姓名標示-非商業性-相同方式分享」 方式分享給所有的資料科學同好們。我們也在此謝謝他。:)","Computer Vision Crash Course","22"
+"2016-01-02T03:26:42+0000","1502894619932654_1735055546716559","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Technology","2","2016-01-02 03:16:49 UTC","1083","574","180","","2016-01-02T03:16:49+0000","2016-01-02 03:20:17 UTC","22615","0","608","False","False","277","http://www.slideshare.net/tw_dsconf/tensorflow-tutorial","http://www.slideshare.net/tw_dsconf/tensorflow-tutorial
+
+感謝 Google Brain 邱中鎮博士在 2015/12/29 分享給八百位資料科學同好們的精采演講。因為公司的規定，邱博士只能公開分享下半段演講關於 TensorFlow 的投影片，請大家見諒。
+
+關於此次分享活動的資訊請見 http://datasci.tw/event/google_deep_learning","Google TensorFlow Tutorial","73"
+"2015-12-12T01:41:12+0000","1502894619932654_1727936387428475","748641158535005","台灣資料科學愛好者年會","slideshare:author","http://www.slideshare.net/tw_dsconf","Data & Analytics","0","2015-12-12 01:24:43 UTC","901","295","152","","2015-12-12T01:24:43+0000","2015-12-12 01:25:36 UTC","11443","0","1002","False","False","460","http://www.slideshare.net/tw_dsconf/ss-56071386","http://www.slideshare.net/tw_dsconf/ss-56071386
+http://datasci.tw/event/machine_learning/
+
+台灣資料科學愛好者年會系列活動「機器學習速遊」(2015/12/12) 的投影片同步開放線上下載 by 台大資工林軒田教授。","機器學習速遊","122"
