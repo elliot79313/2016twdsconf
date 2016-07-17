@@ -7,6 +7,13 @@
 
 -----
 
+先給數據
+
+數據: https://docs.google.com/spreadsheets/d/1GkDyLKf0wv9f1m-WfDdwe36VzYznKonWvD82mjVHdbE/edit#gid=0
+
+
+-----
+
 抓取方式:
 
 Step1: 從資料科學年會粉絲頁抓資料
@@ -31,6 +38,5 @@ python jsontocsv.py 0 post_data_insights.json post_data_insights.csv
 ```
 
 
-數據: https://docs.google.com/spreadsheets/d/1GkDyLKf0wv9f1m-WfDdwe36VzYznKonWvD82mjVHdbE/edit#gid=0
 
 

@@ -7,7 +7,7 @@ import json
 __access_token__ = '291463934212578|KpMfnD6zraCdnZo8vWB5kKambYQ'
 
 
-def fetchPost(pageid, limit=100):
+def fetchPost(pageid, limit=200):
 
 	__base__ = 'https://graph.facebook.com/v2.7/%(pageid)s/posts' % {'pageid': pageid}
 

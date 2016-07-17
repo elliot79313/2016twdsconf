@@ -45,6 +45,7 @@ def main():
 	#篩選slideshare 
 	post_set = [ item for item in post_set if "link" in item]
 	post_set = [ item for item in post_set if "slideshare" in item["link"] ]
+	print len(post_set)
 	links = [item["link"] for item in post_set ]
 
 	link_stat_dict = fetchSlideshareLinkStat(links)
@@ -57,6 +58,7 @@ def main():
 			item["stat"] = link_stat_dict[url]
 
 	#DONE
+	print len(post_set)
 
 	#存檔案
 	w = open("./post_data_insights.json","w")
