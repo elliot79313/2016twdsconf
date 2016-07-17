@@ -22,7 +22,7 @@ def fetchSlideshareLinkStat(links):
 		#GET 模式
 		res = urllib2.urlopen(url=__base__+"?"+payload)
 		res_obj = json.load(res)
-		print res_obj
+		
 		link_stat_obj["facebook_insight"] = res_obj["share"]
 		
 
